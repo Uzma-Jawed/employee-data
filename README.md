@@ -1,4 +1,4 @@
-# Employee Dataset (Generated using Python)
+# Employee Dataset
 
 This repository contains a generated dataset of **100 unique employee records** using Python. Each employee has:
 
